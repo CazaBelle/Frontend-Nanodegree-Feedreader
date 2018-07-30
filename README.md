@@ -4,7 +4,7 @@ This project is a demonstration on how to test an RSS Feed Reader JavaScript app
 The application being tested is an [RSS Feed Reader provided by Udacity] (https://github.com/udacity/frontend-nanodegree-feedreader). To see a demo click here
 
 # Installation
-After downloading this repository, launch the index.html file. It will open up in your predefined browser and automatically run the tests. When the tests finish running, scroll down to the bottom of the page to see the results. To see a live demo click here![
+After downloading this repository, launch the index.html file. It will open up in your predefined browser and automatically run the tests. When the tests finish running, scroll down to the bottom of the page to see the results. To see a live demo [click here!](https://cazabelle.github.io/Frontend-Nanodegree-Feedreader/)
 
 # Tests Included
 The tests included are the following:
