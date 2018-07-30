@@ -9,20 +9,20 @@ After downloading this repository, launch the index.html file. It will open up i
 # Tests Included
 The tests included are the following:
 
-1. RSS Feeds
+### 1. RSS Feeds
 * Ensure that the RSS feeds are defined
 * Ensure that each feed has a defined, non-empty URL
 * Ensure that each feed has a defined, non-empty name..
 
-2. Menu
+### 2. Menu
 * Ensure the menu is hidden by default..
 * Ensure that clicking on the menu icon shows the menu..
 * Ensure that clicking on the menu icon again hides the menu..
 
-3. Initial Entries
+### 3. Initial Entries
 * Ensure that each feed contains at least one feed entry..
 
-4. New Feed Selection
+### 4. New Feed Selection
 * Ensure that switching to a new feed actually changes the content..
 
 # How to complete this project?
